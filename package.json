@@ -1,0 +1,23 @@
+{
+  "name": "clientless",
+  "version": "0.0.0",
+  "description": "A  ClientLess Framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phodal/clientless.git"
+  },
+  "keywords": [
+    "clientless",
+    "serverless"
+  ],
+  "author": "Phodal HUANG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phodal/clientless/issues"
+  },
+  "homepage": "https://github.com/phodal/clientless#readme"
+}
